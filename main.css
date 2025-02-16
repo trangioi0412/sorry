@@ -83,13 +83,13 @@ h2{
     font-style: normal;
     text-align: center;
     margin: 20px 0;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .box-text-content{
     text-indent: 20px;
     margin: 0 20px;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .box-text-action{
@@ -98,7 +98,7 @@ h2{
 
 .box-text-action p {
     
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .box-text-action_button{
@@ -107,8 +107,8 @@ h2{
 
 .box-text-action_button button{
     margin: 0 20px;
-    height: 40px;
-    width: 120px;
+    height: 8%;
+    width: 14%;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -135,7 +135,7 @@ h2{
     top: 55%;
     left: 28%;
     z-index: 1;
-    height: 100px;
+    height: 65px;
 }
 
 .text_img2{
@@ -143,7 +143,7 @@ h2{
     top: 65%;
     left: 28%;
     z-index: 1;
-    height: 100px;
+    height: 65px;
 }
 
 .text_img3{
@@ -151,5 +151,5 @@ h2{
     top: 60%;
     right: 28%;
     z-index: 1;
-    height: 150px;
+    height: 65px;
 }
