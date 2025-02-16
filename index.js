@@ -1,11 +1,7 @@
 let buttonDisplay = document.querySelector('.action_button');
 buttonDisplay.addEventListener('click', () => {
     let textBox = document.getElementById('text');
-    if(textBox.style.display === 'none'){
-        textBox.style.display = 'block';
-    }else{
-        textBox.style.display = 'none';
-    }
+    textBox.style.display = 'block';
 })
 
 let buttonNo = document.querySelector('.box-text-action_button_no');
